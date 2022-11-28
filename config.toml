@@ -2,3 +2,26 @@ baseURL = 'https://nspavlo.github.io/'
 languageCode = 'en-us'
 title = 'JP'
 theme = 'PaperMod'
+
+[params.profileMode]
+enabled = false
+
+[params.homeInfoParams]
+Title = "🧙 Welcome Traveler!"
+Content = "Tips and techniques for iOS development."
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/nspavlo"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/nspavlo/"
+
+[[params.socialIcons]]
+name = "stackoverflow"
+url = "https://stackoverflow.com/users/1644119/nspavlo"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/JansPavlovs"
