@@ -21,7 +21,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 editPost:
-    URL: "https://github.com/nspavlo/nspavlo.github.io/content"
+    URL: "https://github.com/nspavlo/nspavlo.github.io/tree/main/content/"
     Text: "Suggest Changes"
     appendFilePath: true
 ---

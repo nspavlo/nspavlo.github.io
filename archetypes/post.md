@@ -27,7 +27,7 @@ cover:
     relative: false
     hidden: true
 editPost:
-    URL: "https://github.com/nspavlo/nspavlo.github.io/content"
+    URL: "https://github.com/nspavlo/nspavlo.github.io/tree/main/content/"
     Text: "Suggest Changes"
     appendFilePath: true
 ---
