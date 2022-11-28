@@ -20,12 +20,6 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-cover:
-    image: "<image path/url>"
-    alt: "<alt text>"
-    caption: "<text>"
-    relative: false
-    hidden: true
 editPost:
     URL: "https://github.com/nspavlo/nspavlo.github.io/content"
     Text: "Suggest Changes"
