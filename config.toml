@@ -1,10 +1,18 @@
+# main
+title = 'JP'
 baseURL = 'https://nspavlo.github.io/'
 languageCode = 'en-us'
-title = 'JP'
 theme = 'paper'
 
 [params]
-twitter = 'JansPavlovs'
-github = 'nspavlo'
-name = 'Jans Pavlovs'
-bio = 'Tips and techniques for iOS development.'
+  # header socials
+  twitter = 'JansPavlovs'
+  github = 'nspavlo'
+
+  # home page
+  name = 'Jans Pavlovs'
+  bio = 'Tips and techniques for iOS development.'
+
+  # misc
+  disableHLJS = true
+  monoDarkIcon = true
